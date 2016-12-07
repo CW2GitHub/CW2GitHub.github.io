@@ -1,0 +1,56 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	font-family: "Telugu Sangam MN", sans-serif;
+	font-size: 15px;
+	padding-left: 80px;
+	padding-right: 80px;
+	color: #444444;
+}
+
+nav a{
+	margin-right: 50px;
+	text-align: justify-all;
+	color: #444444;
+	text-decoration: none;
+	padding: 3px;
+	padding-top: 80px;
+	padding-right: 15px;
+	padding-bottom: 40px;
+}
+
+h1{
+	padding-top: 30px;
+}
+}
+
+p{
+	padding-top: 20px;
+	padding-bottom:  20px
+	margin-left; 20px;
+	margin-right: 20;
+	text-align: justify;
+}
+
+ul li{
+	padding-top: 20px;
+	padding-bottom:  20px
+	margin-left; 80px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h3{
+	padding-top: 60x;
+	padding-bottom: 20px;
+}
+
+section{
+	padding-top: 70px;
+	padding-bottom: 60px;
+}
