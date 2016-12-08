@@ -11,13 +11,17 @@ body{
 	color: #444444;
 }
 
+nav {
+	padding-top:24px;
+}
+
 nav a{
-	margin-right: 50px;
+	margin-right: 54px;
 	text-align: justify-all;
 	color: #444444;
 	text-decoration: none;
 	padding: 3px;
-	padding-top: 80px;
+	padding-top: 40px;
 	padding-right: 15px;
 	padding-bottom: 40px;
 }
@@ -25,7 +29,7 @@ nav a{
 h1{
 	padding-top: 30px;
 }
-}
+
 
 p{
 	padding-top: 20px;
@@ -53,4 +57,20 @@ h3{
 section{
 	padding-top: 70px;
 	padding-bottom: 60px;
+}
+
+
+section img {
+
+    width: 300px;
+
+}
+section p a {
+
+    color: #00EFFF;
+    font-weight: bold;
+    font-size: 20px;
+
+    text-decoration: none;
+
 }
