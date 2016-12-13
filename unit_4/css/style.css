@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	font-family: "Telugu Sangam MN", sans-serif;
+	font-size: 15px;
+	padding-left: 80px;
+	padding-right: 80px;
+	color: #444444;
+}
+
+nav {
+	padding-top:24px;
+}
+
+nav a{
+	margin-right: 54px;
+	text-align: justify-all;
+	color: #444444;
+	text-decoration: none;
+	padding: 3px;
+	padding-top: 40px;
+	padding-right: 15px;
+	padding-bottom: 40px;
+}
+
+h1{
+	padding-top: 30px;
+}
+
+.greatpossibilities p {
+	font-family: 'Playfair Display', serif;
+}
+
+
+p{
+	padding-top: 20px;
+	padding-bottom:  20px;
+	margin-left: 20px;
+	margin-right: 20;
+	text-align: justify;
+}
+
+ul li{
+	padding-top: 20px;
+	padding-bottom:  20px;
+	margin-left: 80px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h3{
+	padding-top: 60px;
+	padding-bottom: 20px;
+}
+
+section{
+	padding-top: 70px;
+	padding-bottom: 60px;
+}
+
+
+section img {
+    width: 300px;
+
+}
+section p a {
+    color: #00EFFF;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+
+}
