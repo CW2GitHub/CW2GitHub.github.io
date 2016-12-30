@@ -11,6 +11,8 @@ body{
 	padding-left: 80px;
 	padding-right: 80px;
 	color: #444444;
+	margin-right: 40px;
+	margin-left: 40px;
 }
 
 nav {
@@ -59,19 +61,27 @@ header {
 	background-color: #FFC675;
 }
 
+
+
 h3 {
 	width: 450px;
 	background-color: #FFED74;
 	margin-top:24px;
 	margin-bottom: 10px;
+	margin-left: 40px;
 	padding-left: 40px;
 	border: 1px solid black;
 }
 
 div {
 	background-color: #FFE2B8;
+	border: 1px solid black;
 }
-
+section {
+	border: 1px solid black;
+	margin-top:10px;
+	margin-bottom: 10px;
+}
 
 p{
 	width: 350px;
@@ -131,11 +141,14 @@ footer {
 	padding-right: 30px;
 	padding-bottom:  20px;
 	padding-left:  20px;
-	margin-left: 40px;
+	margin-left: 80px;
 	margin-right: 40px;
 	margin-top: 40px;
 	margin-bottom: 40px;
 	text-align: center;
+}
+footer {
+	border: 1px solid black;
 }
 header {
 	border: 1px solid black;
@@ -145,13 +158,18 @@ nav {
 }
 article {
 	border: 1px solid black;
-	margin-top: 20px;
-	margin-bottom: 20px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-right: 40px;
+	margin-left: 40px;
 }
 aside {
 	border: 1px solid black;
+	margin-right: 40px;
+	margin-left: 40px;
+	
+	
+
 }
-footer {
-	border: 1px solid black;
-}
+
 
